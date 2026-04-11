@@ -46,6 +46,18 @@ Variables of the dataset:
    - Factors: gender, alco, cardio, cholesterol
    - Numeric: age, height, weight, ap_hi, ap_lo
 
+## Visualizations Produced
+The analysis generates:
+- Dot chart of cardio category counts
+- Bar plot of cardio distribution
+- Sorted bar plot of alcohol categories
+- Grouped/stacked bar plot comparing alcohol categories by gender
+- Histogram of age (density)
+- Histogram of height with frequency polygon overlay
+- Pie chart of alcohol distribution
+- Weight trend plot
+- Boxplot of height
+- Histogram of age with Freedman-Diaconis breaks
 
 ## Author
 Name: M.M.I.M.Marasingha
