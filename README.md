@@ -1,6 +1,6 @@
 # Cardiovascular dataset Exploratory Analysis
 ## Overview
-This project performs explotory data analysis on cardiovascular-style dataset using R.  
+This project performs exploratory data analysis on cardiovascular-style dataset using R.  
 
 ## Workflow
 - Load the data
